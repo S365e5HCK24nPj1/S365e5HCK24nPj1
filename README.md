@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S365e5HCK24nPj1
+- 👋 Hi, I’m @castor&Pollux 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,3 +10,8 @@
 S365e5HCK24nPj1/S365e5HCK24nPj1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://github.com/DefinitelyTyped/DefinitelyTyped/actions/workflows/CI.yml/badge.svg?branch=master&event=push
+https://github.com/DefinitelyTyped/DefinitelyTyped/actions/workflows/CI.yml
+https://modelcontextprotocol.io/llms.txt
+https://mintcdn.com/mcp/bEUxYpZqie0DsluH/images/mcp-simple-diagram.png?w=280&fit=max&auto=format&n=bEUxYpZqie0DsluH&q=85&s=0cea440365b03c2f2a299b0104375b8b
+- 🤖 Automatic creations for me anything 
